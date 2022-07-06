@@ -21,3 +21,14 @@ If you would like to use the server we have running, follow these instructions.
 1. Create a new user in PlayOnline:
 
 ![pol_setup1](img/pol_setup/pol_setup1.png "pol_setup1")
+
+2. Fill in the required information.
+  - _Member Name_ can be anything. Something like "user" will work just fine.
+  - _PlayOnline ID_ should look like a Content ID for FINAL FANTASY XI. This just needs to be 4 letters and 4 numbers.
+    - For example: `AAAA0000`
+  - _Set Password_ should be set to "Not set"
+  - _Member Password_ can be left blank
+  - _Square Enix ID_ can be left blank
+  - _One-time Password_ should be set to "Do Not Use"
+
+![pol_setup2](img/pol_setup/pol_setup2.png, "pol_setup2")
