@@ -31,4 +31,4 @@ If you would like to use the server we have running, follow these instructions.
   - _Square Enix ID_ can be left blank
   - _One-time Password_ should be set to "Do Not Use"
 
-![pol_setup2](img/pol_setup/pol_setup2.png, "pol_setup2")
+![pol_setup2](img/pol_setup/pol_setup2.png "pol_setup2")
