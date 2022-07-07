@@ -58,9 +58,8 @@ You can either wait for the patching to complete or you can do the _Custom Launc
 
 ### Custom Launcher
 
-In order to actually connect to the server, you will need to run a custom client. As long as you're using a compatible client it should work. However, it is recommended you use either the defacto launcher xiloader or a customized version of it "PayOffline.
+In order to actually connect to the server, you will need to run a custom client. The recommendation is to use PlayOffline:
 
-- [xiloader](https://github.com/LandSandBoat/xiloader/releases/download/v1.0.6/xiloader.exe) ([source](https://github.com/LandSandBoat/xiloader))
 - [PlayOffline](https://raw.githubusercontent.com/silusffxi/server-setup/main/files/playoffline_20220701.zip) ([source](https://gitlab.com/silusffxi/playoffline))
 
 Once downloaded, place the client files in the **same directory** as `pol.exe`. By default, `pol.exe` is located in `C:\Program Files (x86)\PlayOnline\SquareEnix\FINAL FANTASY XI`.
@@ -79,7 +78,8 @@ Once downloaded, place the client files in the **same directory** as `pol.exe`. 
 ```
 
 **Under this section**, add another profile that looks like this:
-(This assumes you are using PlayOffline.)
+- This assumes you are using PlayOffline.
+- **MAKE SURE** to get the correct server address from the Discord.
 
 ```xml
 <profile name="PlayOffline">
