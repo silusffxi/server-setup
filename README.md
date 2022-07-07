@@ -67,5 +67,25 @@ Once downloaded, place the client files in the **same directory** as `pol.exe`. 
 
 ### Windower
 
-Download and install Windower: https://www.windower.net/
-(Direct download: [windower.msi](https://update.windower.net/live/windower.msi))
+1. Download and install Windower: https://www.windower.net/ (Direct download: [windower.msi](https://update.windower.net/live/windower.msi))
+2. Once Windower is installed go to the install location and open the `settings.xml` in a text editor such as Notepad, [Notepad++](https://notepad-plus-plus.org/), [Sublime Text](https://www.sublimetext.com/), [VSCode](https://code.visualstudio.com/).
+3. In this file there should be section that looks like this:
+
+```xml
+<profile name="">
+  <consolekey>Insert</consolekey>
+  <uiscale>1</uiscale>
+</profile>
+```
+
+**Under this section**, add another profile that looks like this:
+(This assumes you are using PlayOffline.)
+
+```xml
+<profile name="PlayOffline">
+  <consolekey>Insert</consolekey>
+  <windowmode>Window</windowmode>
+  <args>--server [SERVER ADDRESS FROM DISCORD] --hairpin --hide</args>
+  <executable>playoffline.exe</executable>
+</profile>
+```
