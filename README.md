@@ -24,6 +24,8 @@ If you would like to use the server we have running, follow these instructions.
 
 ### PlayOnline Setup
 
+_Note: When PlayOnline is first launched, you will be prompted to add a user automatically. The "Add Member" option in the next screenshot shouldn't be required._
+
 1. Create a new user in PlayOnline:
 
 ![pol_setup1](img/pol_setup/pol_setup1.png "pol_setup1")
