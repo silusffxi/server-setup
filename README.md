@@ -1,6 +1,6 @@
-# Private Server
+# Server
 
-We have a private server running for FINAL FANTASY XI.
+We have a server running for FINAL FANTASY XI.
 The server in use is [LandSandBoat](https://github.com/LandSandBoat/server)
 
 If you would like to use the server we have running, follow these instructions.
@@ -52,5 +52,20 @@ You would normally need to take advantage of a trial account in order to get the
 Follow the prompts to verify the files. You will be prompted to fix files once the check completes. Let the client fix files.
 
 ![pol_setup4](img/pol_setup/pol_setup4.png "pol_setup4")
-![pol_setup5](img/pol_setup/pol_setup4.png "pol_setup5")
+![pol_setup5](img/pol_setup/pol_setup5.png "pol_setup5")
 
+You can either wait for the patching to complete or you can do the _Custom Launcher_ and _Windower_ steps while waiting for the patch to complete.
+
+### Custom Launcher
+
+In order to actually connect to the server, you will need to run a custom client. As long as you're using a compatible client it should work. However, it is recommended you use either the defacto launcher xiloader or a customized version of it "PayOffline.
+
+- [xiloader](https://github.com/LandSandBoat/xiloader/releases/download/v1.0.6/xiloader.exe) ([source](https://github.com/LandSandBoat/xiloader))
+- [PlayOffline](https://raw.githubusercontent.com/silusffxi/server-setup/main/files/playoffline_20220701.zip) ([source](https://gitlab.com/silusffxi/playoffline))
+
+Once downloaded, place the client files in the **same directory** as `pol.exe`. By default, `pol.exe` is located in `C:\Program Files (x86)\PlayOnline\SquareEnix\FINAL FANTASY XI`.
+
+### Windower
+
+Download and install Windower: https://www.windower.net/
+(Direct download: [windower.msi](https://update.windower.net/live/windower.msi))
