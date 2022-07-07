@@ -16,6 +16,12 @@ If you would like to use the server we have running, follow these instructions.
 3. Install **PlayOnline Viewer** and **FINAL FANTASY XI**.
   - The DirectX End-User Runtime is not required.
 
+### Pre-Setup
+
+1. Download [ffxi_force_patch.zip](files/ffxi_force_patch.zip).
+  - The password for this file can be found in the Discord.
+2. Unzip the files into your FINAL FANTASY XI install directory, by default this should be `C:\Program Files (x86)\PlayOnline\SquareEnix\FINAL FANTASY XI`.
+
 ### PlayOnline Setup
 
 1. Create a new user in PlayOnline:
