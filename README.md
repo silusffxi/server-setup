@@ -38,3 +38,19 @@ If you would like to use the server we have running, follow these instructions.
   - _One-time Password_ should be set to "Do Not Use"
 
 ![pol_setup2](img/pol_setup/pol_setup2.png "pol_setup2")
+
+### Patch Client
+
+You would normally need to take advantage of a trial account in order to get the latest version of the client. However, we can use the files that were applied in the _Pre-Setup_ step to force the update.
+
+1. Go to "Check Files" in PlayOnline Viewer
+
+![pol_setup3](img/pol_setup/pol_setup3.png "pol_setup3")
+
+2. Select "FINAL FANTASY XI Ver.Unknown" then select "Check Files"
+
+Follow the prompts to verify the files. You will be prompted to fix files once the check completes. Let the client fix files.
+
+![pol_setup4](img/pol_setup/pol_setup4.png "pol_setup4")
+![pol_setup5](img/pol_setup/pol_setup4.png "pol_setup5")
+
